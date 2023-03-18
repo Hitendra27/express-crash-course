@@ -1,5 +1,9 @@
 # express-crash-course
 
+## screenshots of the Express Server app.
+<img width="1440" alt="Screenshot 2023-03-18 at 23 00 52" src="https://user-images.githubusercontent.com/73651340/226144545-a9cc0bfb-40c4-4ad9-88e1-a36faefbe1f6.png">
+
+
 ## What Is Express.js?
 Express.js, sometimes also referred to as “Express,” is a minimalist, fast, and Sinatra-like Node.js backend framework that provides robust features and tools for developing scalable backend applications. It gives you the routing system and simplified features to extend the framework by developing more powerful components and parts depending on your application use cases.
 
